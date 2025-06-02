@@ -38,8 +38,6 @@ By the end of this course, students will be able to:
 Below are interactive simulations of various embedded systems projects implemented using Tinkercad.  
 Click the project name or the link to open the simulation, view the circuit and code, and run the project online.
 
-> Links will be available soon...
-
 | Project Name     | Link to Simulation  |
 |----------------------------------|-------------------------------------|
 | Blinking LED with Bitwise Toggle          | [View on Tinkercad](https://www.tinkercad.com/things/aPEKnv2BPRn-blinking-led-with-bitwise-toggle-low-level-c?sharecode=xuui2qRenDLf3jeSoYWhu7TqhFuotC_CgVVPu6YQsUQ) |
